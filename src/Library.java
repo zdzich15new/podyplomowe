@@ -1,6 +1,7 @@
 public class Library {
 
     public static void main(String[] args) {
+        // Adding comment - this book is about Java
         String bookName = "Java przewodnik dla początkujacych";
         int year = 2021;
         String author = "Herbert Schildt";

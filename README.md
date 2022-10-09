@@ -13,3 +13,5 @@ This is a test library project for storing info about the books.
 ### Returns
 
 Script is showing one test book.
+
+![Example_book_img](./img/img1.jpg)
